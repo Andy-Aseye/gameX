@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gameX/static/css/main.a9219b55.css",
+    "main.js": "/gameX/static/js/main.a973293c.js",
+    "static/js/787.0e769d05.chunk.js": "/gameX/static/js/787.0e769d05.chunk.js",
+    "static/media/video.mp4": "/gameX/static/media/video.acc41f2b8872b6200e8c.mp4",
+    "static/media/controller.png": "/gameX/static/media/controller.6987e29252e31cf1b334.png",
+    "static/media/amazon.png": "/gameX/static/media/amazon.ccae5fcb75cb0e0a8561.png",
+    "static/media/wallpaper.jpg": "/gameX/static/media/wallpaper.2136a1e1542d00061d80.jpg",
+    "static/media/comcast-logo.png": "/gameX/static/media/comcast-logo.34f03fa810214baac7c1.png",
+    "static/media/walmart.png": "/gameX/static/media/walmart.630971b35e5ac97efe04.png",
+    "static/media/ebay.png": "/gameX/static/media/ebay.e3cc23a099d4375f414f.png",
+    "static/media/barnes.png": "/gameX/static/media/barnes.62df26c14cab3fad2c03.png",
+    "index.html": "/gameX/index.html",
+    "main.a9219b55.css.map": "/gameX/static/css/main.a9219b55.css.map",
+    "main.a973293c.js.map": "/gameX/static/js/main.a973293c.js.map",
+    "787.0e769d05.chunk.js.map": "/gameX/static/js/787.0e769d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9219b55.css",
+    "static/js/main.a973293c.js"
+  ]
+}
